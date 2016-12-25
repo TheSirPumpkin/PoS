@@ -1,0 +1,3 @@
+Sword
+amount 0
+0
